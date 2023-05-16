@@ -1,4 +1,5 @@
 ## Схемы
+- [Figma (если в ней смотреть будет удобнее)](https://www.figma.com/file/zeFPJA93FAmoOh0V0rUFVp/MCF)
 - [Event Storming](ES.png)
 - [Модель данных](DataModel.png)
 - [Модель коммуникаций](CommunicationModel.png)
